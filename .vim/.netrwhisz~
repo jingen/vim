@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/tsdeng/Develop/RoR/my_server'
+let g:netrw_dirhist_2='/Users/tsdeng/Develop/Projects/notty'
+let g:netrw_dirhist_3='/Users/tsdeng/Scripts/WebToolkit/UrlGreper'
+let g:netrw_dirhist_4='/Users/tsdeng'
+let g:netrw_dirhist_5='/Users/tsdeng/Scripts/FileToolkit'
+let g:netrw_dirhist_6='/Users/tsdeng/Desktop/Calculator'
+let g:netrw_dirhist_7='/Users/tsdeng/vimtest'
+let g:netrw_dirhist_8='/Users/tsdeng/Develop/C++'

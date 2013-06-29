@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/jingenlin/jobs/cakephp/cakephp/app'
+let g:netrw_dirhist_2='/Users/jingenlin/jobs/cakephp/Open-Assembly/app'
+let g:netrw_dirhist_3='/Users/jingenlin/jobs/cakephp/Open-Assembly'
+let g:netrw_dirhist_4='/Users/jingenlin/jobs/cakephp/Open-Assembly/app'
+let g:netrw_dirhist_5='/Users/jingenlin/jobs/cakephp/Open-Assembly/app/Model/Datasource'

@@ -63,16 +63,17 @@ set showcmd
 "map <F3> :source ~/vim_session <cr>     " And load session with F3
 
 "=========================Theme and Color
-colorscheme delek
-if has("gui")
+"colorscheme delek
+"if has("gui")
 "The following is black-wite background.
-colorscheme desert
+"colorscheme desert
+colorscheme molokai
 "colorscheme railscasts
 "colorscheme camo
 "colorscheme eclm_wombat
 "set transparency=15
 "colorscheme evening
-endif
+"endif
 
 if !has("gui")
 if version >= 700
@@ -243,3 +244,4 @@ endfunction
 "no auto-">"tag completion
 let php_noShortTags=1
 :ab syso System.out.println(
+hi Visual  guifg=#000000 guibg=#FFFFFF gui=none
